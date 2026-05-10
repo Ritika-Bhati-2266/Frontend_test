@@ -46,7 +46,7 @@ export default function Products() {
               className="h-64 w-full object-cover"
             />
 
-            <div className="p-5">
+            <div className="p-5 bg-[#1E3320]">
               <h3 className="text-2xl font-semibold">
                 {plant.name}
               </h3>
