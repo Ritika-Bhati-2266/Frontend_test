@@ -3,6 +3,7 @@ import Hero from "./components/Hero"
 import Products from "./components/Products"
 import TrendingPlants from "./components/TrendingPlants"
 import Reviews from "./components/Reviews"
+import Footer from "./components/Footer"
 
 function App() {
   return (
@@ -17,6 +18,8 @@ function App() {
       <TrendingPlants />
 
       <Reviews />
+
+      <Footer />
 
     </div>
   )
